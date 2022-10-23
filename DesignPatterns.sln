@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{BEBB40DF-533B-43E7-BBE1-7A9D1917C43E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{D8BC4952-1914-4857-A8AF-8BCF078F0220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{BEBB40DF-533B-43E7-BBE1-7A9D1917C43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEBB40DF-533B-43E7-BBE1-7A9D1917C43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEBB40DF-533B-43E7-BBE1-7A9D1917C43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BC4952-1914-4857-A8AF-8BCF078F0220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BC4952-1914-4857-A8AF-8BCF078F0220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BC4952-1914-4857-A8AF-8BCF078F0220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BC4952-1914-4857-A8AF-8BCF078F0220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
