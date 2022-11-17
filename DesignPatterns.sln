@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{E8796EAE-08A1-40B5-8F06-00170CB1FEE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{5F8FF97C-D3F0-4379-8704-3AE970CBD5AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{E8796EAE-08A1-40B5-8F06-00170CB1FEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8796EAE-08A1-40B5-8F06-00170CB1FEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8796EAE-08A1-40B5-8F06-00170CB1FEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8FF97C-D3F0-4379-8704-3AE970CBD5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8FF97C-D3F0-4379-8704-3AE970CBD5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8FF97C-D3F0-4379-8704-3AE970CBD5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8FF97C-D3F0-4379-8704-3AE970CBD5AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
